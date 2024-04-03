@@ -1,0 +1,9 @@
+Song:
+Audio Band Index: 0, Value: 0.0030
+Audio Band Index: 1, Value: 0.0356
+Audio Band Index: 2, Value: 0.1542
+Audio Band Index: 3, Value: 0.1830
+Audio Band Index: 4, Value: 0.0549
+Audio Band Index: 5, Value: 0.0202
+Audio Band Index: 6, Value: 0.0025
+Audio Band Index: 7, Value: 0.0003
